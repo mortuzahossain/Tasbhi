@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tasbhi</string>
+    <string name="total">Total: </string>
+    <string name="total_0">Total: 0</string>
 </resources>
