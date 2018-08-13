@@ -10,7 +10,7 @@
         android:id="@+id/counterBtn"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/colorAccent"
+        android:background="@drawable/btn_background"
         android:text="@string/total_0"
         android:textColor="@android:color/white"
         android:textSize="35sp"

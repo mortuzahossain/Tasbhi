@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         counterBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                counter = counter + 1;
+                counter++;
                 counterBtn.setText(String.format("%s%s", getString(R.string.total), String.valueOf(counter)));
             }
         });
